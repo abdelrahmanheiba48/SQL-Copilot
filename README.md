@@ -26,3 +26,5 @@ The RAG system provides the LLM with information about the database structure, r
 The goal of this project is to explore how RAG and LLMs can be used to build a practical **Natural Language → SQL** system that can interact with real-world databases.
 
 This project is still under development, with more features planned such as result explanations, visualizations, follow-up questions, and evaluation.
+
+Link of the AdventureWorks Database -> https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2025.bak
